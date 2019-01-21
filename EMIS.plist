@@ -20,7 +20,7 @@
                 <key>needs-shine</key>
                 <false/>
                 <key>url</key>
-                <string>下载时大图512*512（非必填）</string>
+                <string>http://106.14.150.65:8686/iOS/app_logo.png</string>
             </dict>
             <dict>
                 <key>kind</key>
