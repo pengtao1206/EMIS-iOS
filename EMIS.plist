@@ -38,7 +38,7 @@
                 
 <key>bundle-identifier</key>
                 
-<string>com.aruistar.cmcapp</string>
+<string>Peng-Tao.EMIS</string>
                 
 <key>bundle-version</key>
                 
@@ -50,7 +50,7 @@
                 
 <key>title</key>
                 
-<string>cmcapp</string>
+<string>EMIS</string>
             
 </dict>
         
